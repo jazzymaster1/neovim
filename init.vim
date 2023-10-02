@@ -1,5 +1,5 @@
 set number
-"set relativenumber
+set relativenumber
 set background=dark
 set mouse=a
 
