@@ -1,0 +1,51 @@
+=== CHEATS DO VIM ===
+
+	CTRL+a - (+)1 numero linha a frente
+	CTRL+x - (-)1 numero linha a frente
+
+
+
+=== Substituição ===
+
+	:%s/antes/depois  
+	esc + s/ //g removes all spaces 
+	esc + g/^$/d removes all blank lines 
+	esc + g/^#/d removes all comments
+
+
+=== MOVIMENTAÇÃO BÁSICA === 
+
+	w - palavra ini
+	e - palavra fim
+	b - palavra ini <--
+	((x) pra quantidade)
+
+	gg - 1st
+	(x)G - (x)th
+	
+	CTRL+f - pagina vazia
+	CTRL+b - pagina cheia
+	
+	CTRL+u - meia pgn cima
+	CTRL+d - meia pgn baixo
+
+	zt - cursor vira topo
+	zb - cursor vira fundo
+	zz - cursor vira meio
+
+	H - mv cursor topo 
+JANELA  M - mv cursor meio 
+	L - mv cursor fundo 
+
+SCROLL  CTRL+y - scroll pra cima 	
+	CTRL+e - scroll pra baixo
+
+=== Documento / Salvamentos ===
+
+	ZZ - salva e quita (!!!)
+
+
+
+=== 
+
+
