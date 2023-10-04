@@ -23,5 +23,5 @@ nmap <C-8> :TagbarToggle<CR>
 " set clipboard=unnamedplus
 "nao funfou em cima
 
-noremap  5k
-noremap  5j
+noremap <C-k> 5k
+noremap <C-j> 5j
